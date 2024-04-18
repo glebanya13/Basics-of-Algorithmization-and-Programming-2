@@ -1,0 +1,3 @@
+﻿  Laboratory-9.cpp
+D:\Labs\Basics-of-Algorithmization-and-Programming\Laboratory-9\Laboratory-9\Laboratory-9.cpp(23,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Laboratory-9.vcxproj -> D:\Labs\Basics-of-Algorithmization-and-Programming\Laboratory-9\x64\Debug\Laboratory-9.exe

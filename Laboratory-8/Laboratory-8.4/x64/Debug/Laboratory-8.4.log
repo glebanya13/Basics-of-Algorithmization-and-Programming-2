@@ -1,0 +1,3 @@
+﻿  Laboratory-8.4.cpp
+D:\Labs\Basics-of-Algorithmization-and-Programming\Laboratory-8\Laboratory-8.4\Laboratory-8.4.cpp(31,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laboratory-8.4.vcxproj -> D:\Labs\Basics-of-Algorithmization-and-Programming\Laboratory-8\x64\Debug\Laboratory-8.4.exe
